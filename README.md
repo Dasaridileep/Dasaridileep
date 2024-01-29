@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dasaridileep
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning python html css
-- Reach me  on Linkedin instagram...
+- Reach me  on Linkedin..
 
 <!---
 Dasaridileep/Dasaridileep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
