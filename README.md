@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
 💻 Passionate about building full-stack web applications.  
-🌱 Currently learning Web Development (HTML, CSS, JavaScript, React,Node.js)
+🌱 Currently learning Web Development (HTML, CSS, JavaScript, React)
 🎓 B.Tech CSE | Lovely Professional University | 2026  
 🧠 Strong foundation in DBMS, SQL, and Power BI. 
 📘 Practicing Data Structures and Algorithms (DSA) in Java.  
