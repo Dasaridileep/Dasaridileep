@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @Dasaridileep
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning python html css
-- Reach me  on Linkedin..
+# 👋 Hi, I'm Dasari Dileep
 
-<!---
-Dasaridileep/Dasaridileep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 💻 Passionate about building full-stack web applications.
+- 🌱 Currently learning **Web Development** (HTML, CSS, JavaScript, Java, React).
+- 🎓 B.Tech CSE | Lovely Professional University | 2026
+- 🧠 Strong foundation in **DBMS**, **SQL**, and **Power BI**.
+- 💼 Experience as a **MERN Stack Developer**.
+
+## 🛠️ Skills
+
+### 💻 Programming & Web
+- HTML, CSS, JavaScript
+- Java (Core)
+- React.js, Node.js, Express.js
+- MongoDB, MySQL
+
+### 🧩 Tools & Platforms
+- Git & GitHub
+- Power BI (Dashboards, DAX, Data Cleaning)
+- Postman, VS Code
+
+### 📊 Databases & Backend
+- SQL & NoSQL
+- DBMS Concepts
+- REST APIs
+
+## 🔗 Connect with me
+- [LinkedIn](www.linkedin.com/in/dileepdasari3)
+
+## 📈 GitHub Stats
+![Dasari Dileep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dasaridileep&show_icons=true&theme=tokyonight)
