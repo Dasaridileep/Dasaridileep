@@ -4,11 +4,11 @@
 ## 🚀 About Me
 
 💻 Passionate about building full-stack web applications.  
-🌱 Currently learning Web Development (HTML, CSS, JavaScript, Java, React).  
+🌱 Currently learning Web Development (HTML, CSS, JavaScript, React,Node.js)
 🎓 B.Tech CSE | Lovely Professional University | 2026  
-🧠 Strong foundation in DBMS, SQL, and Power BI.  
+🧠 Strong foundation in DBMS, SQL, and Power BI. 
 📘 Practicing Data Structures and Algorithms (DSA) in Java.  
-💼 Experience as a MERN Stack Developer (Intern).  
+💼 Experience as a MERN Stack Developer. 
 
 
 ## 🛠️ Skills
